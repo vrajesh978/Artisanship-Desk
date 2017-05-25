@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC  
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"  
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+<tiles-definitions>
+
+
+	<definition name="index" template="/WEB-INF/jsp/index.jsp">
+
+
+
+	</definition>
+
+	<!-- <definition name="SignUp" extends="base.definition"> -->
+	<!-- <put-attribute name="title" value="Registration"></put-attribute> -->
+	<!-- <put-attribute name="body" value="/WEB-INF/jsp/SignUp.jsp"></put-attribute> -->
+	<!-- </definition> -->
+
+	<definition name="login" template="/WEB-INF/jsp/login.jsp">
+	</definition>
+	<definition name="registration" template="/WEB-INF/jsp/registered.jsp">
+	</definition>
+	<definition name="products" template="/WEB-INF/jsp/products.jsp">
+	</definition>
+	<definition name="checkout" template="/WEB-INF/jsp/checkout.jsp">
+	</definition>
+	<definition name="codes" template="/WEB-INF/jsp/codes.jsp">
+	</definition>
+	<definition name="single" template="/WEB-INF/jsp/single.jsp">
+	</definition>
+	<definition name="mail" template="/WEB-INF/jsp/mail.jsp">
+	</definition>
+	<definition name="forgetPassword" template="/WEB-INF/jsp/forgetPassword.jsp">
+	</definition>
+	<definition name="resetPasswrod" template="/WEB-INF/jsp/resetPassword.jsp">
+	</definition>
+	<definition name="addproduct" template="/WEB-INF/jsp/addProduct.jsp">
+	</definition>
+	<definition name="viewProducts" template="/WEB-INF/jsp/viewProducts.jsp">
+	</definition>
+	<definition name="viewProductsCustomer" template="/WEB-INF/jsp/viewProductsCustomer.jsp">
+	</definition>
+	<definition name="shoppingCart" template="/WEB-INF/jsp/shoppingCart.jsp">
+	</definition>
+	<definition name="shoppingCartCustomer" template="/WEB-INF/jsp/shoppingCartCustomer.jsp">
+	</definition>
+	<definition name="shoppingCartFinalize" template="/WEB-INF/jsp/shoppingCartFinalize.jsp">
+	</definition>
+	<definition name="shoppingCartConfirmation" template="/WEB-INF/jsp/shoppingCartConfirmation.jsp"></definition>
+	<definition name="viewUsers" template="/WEB-INF/jsp/viewUsers.jsp"></definition>
+	<definition name="loginAdmin" template="/WEB-INF/jsp/loginAdmin.jsp"></definition>
+	<definition name="loginSeller" template="/WEB-INF/jsp/loginSeller.jsp"></definition>
+	<definition name="sellerRegistration" template="/WEB-INF/jsp/sellerRegistration.jsp"></definition>
+</tiles-definitions>

@@ -130,8 +130,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="map-w3">
 						<iframe width="600" height="450" frameborder="0" style="border: 0"
-							src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCQg69jIEOqGdEh2IfIY0Kz5GY5_QR2TfY
-    &q=23.036489, 72.621143"
+							src="your link to google map private key"
 							allowfullscreen> </iframe>
 
 					</div>
